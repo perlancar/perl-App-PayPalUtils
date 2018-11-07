@@ -1,3 +1,8 @@
+0.003   2018-11-07 (PERLANCAR)
+
+	- Add utility: parse-paypal-old-txdetail-report.
+
+
 0.002   2016-12-30 (PERLANCAR)
 
         - Add utility: parse-paypal-txfinder-report.
